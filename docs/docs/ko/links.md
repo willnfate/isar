@@ -95,7 +95,7 @@ class Student {
 
   late String name;
 
-  final teacher = IsarLinks<Teacher>();
+  final teachers = IsarLinks<Teacher>();
 }
 ```
 
